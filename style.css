@@ -27,6 +27,7 @@ nav {
     text-align: center;
     padding: 15px;
     background-color: #111;
+    
 }
 
 nav a {
@@ -113,4 +114,7 @@ h2 {
     .about, .content {
         width: 100%;
     }
+    .nav 
+        text-direction: column
+    
 }
